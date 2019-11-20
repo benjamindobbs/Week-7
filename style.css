@@ -1,0 +1,29 @@
+body{
+background-color: lightblue;
+font-family: monospace;
+}
+
+h1 {
+color: red;
+margin-left: 40px;
+font-family: "Time New Roman", Times, serif;
+}
+
+h2 {
+color: black;
+margin-left: 80px;
+}
+
+ul{
+margin-left: 100px;
+}
+
+#useForText{
+color: black;
+font-family: "Helvetica", Arial, sans-serif;
+}
+
+.topOfPage {
+background-color: white;
+}
+
